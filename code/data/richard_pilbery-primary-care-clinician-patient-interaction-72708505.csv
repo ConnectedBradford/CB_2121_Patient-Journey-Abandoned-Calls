@@ -1,0 +1,165 @@
+code,term
+677B.,Advice about treatment given
+8CA..,Patient given advice
+8CA0.,Patient advised to inform insurance company
+8CA4F,Patient advised about vegetarian diet
+8CA4G,Patient advised about vegan diet
+8CA4z,Patient advised about diet NOS
+8CA8.,Patient advised not to drive
+8CA9.,Patient advised to inform DVLA
+8CAA.,Patient advised to see solicitor
+8CAB.,Patient advised about exposure to the sun
+8CAC.,Patient advised about safe drinking - water
+8CAD.,Patient advised about the need for insect repellent
+8CAE.,Patient advised about the risks of HIV
+8CAF.,Patient advised to buy medical kit
+8CAG.,Pneumococcal immunisation advised in surgery
+8CAJ.,Patient advised about driving
+8CAZ.,Patient given advice NOS
+8H9..,Planned telephone contact
+9N31.,Telephone encounter
+9NF4.,Visit out of hours
+9NF5.,Out of hours visit - not night visit
+9NF6.,Weekend visit
+9NF7.,Urgent home visit
+9NF8.,Acute home visit
+9NFB.,Home visit elderly assessment
+Ua04q,Discussion about procedure
+Ua04r,Discussion about treatment
+Ua04s,Discussion about therapy
+Ua2Cd,Joint home visit
+XaBQf,Home visit
+XaCE3,Patient advised to use sunblock
+XaCEI,Patient advised of carers legal rights
+XaDv9,Patient advised clear fluids
+XaE4R,Patient advised about driving
+XaEFD,Patient given telephone advice out of hours
+XaFvh,Bank holiday home visit
+XaFvp,Patient advised about alcohol
+XaIRP,Patient given telephone advice during surgery hours
+XaIgL,Follow-up/routine visit note
+XaIgS,Residential home visit note
+XaIgV,Home visit note
+XaIgc,Telephone call to a patient
+XaIgd,Hotel visit note
+XaIge,Telephone consultation
+XaIgm,Acute visit note
+XaIgn,Children's home visit note
+XaIgo,Night visit note
+XaIgu,Nursing home visit note
+XaImK,Oral health advice given
+XaIsi,Cancer care plan discussed with patient
+XaIsj,Cancer care plan discussed with significant other
+XaIvd,Telephone triage encounter
+XaIwl,Head injury advice given
+XaIwp,Clinical examination explained
+XaIyf,Advice about blood glucose control
+XaJQI,Mental health crisis plan discussed with service user
+XaJZ2,Patient advised to have pregnancy test
+XaJux,Advised risk of deep vein thrombosis in air travel
+XaKEz,Patient given advice about management of depression
+XaKHD,Transition of diabetes care options discussed
+XaKNG,Patient advised to contact NHS Direct
+XaKz0,Pt ad notify sexual partners of sexual transmitted infection
+XaL2D,"Patient advised about rest, ice, compression and elevation"
+XaL54,Patient advised to contact emergency ambulance service ASAP
+XaLD4,Smoking cessation advice provided by community pharmacist
+XaLIB,Patient advised to bring sample to surgery
+XaLLD,Advised to see dentist
+XaLMf,Advice about fasting
+XaLQm,Discussion about contraception injection
+XaLpR,Patient advised to telephone for test result
+XaLwc,Resuscitation discussed with patient
+XaLwd,Resuscitation discussed with carer
+XaM5E,Discussion about complication of treatment with patient
+XaMAX,Patient advised to delay filling of prescription
+XaMHX,Patient given advice about suitable footwear
+XaMiH,Nurse telephone triage
+XaN3H,Patient advised about nutrition
+XaN3t,Pt given written advice on benefits of physical activity
+XaN5H,Patient given advice about bowel cancer
+XaNkZ,Advised to contact surgery for test result
+XaNo1,Advised to self care
+XaNo3,Advised to attend accident and emergency department
+XaOSI,Advised to attend minor injuries unit
+XaPK2,Advised to contact general practitioner
+XaPmB,Advised to contact primary care alcohol worker
+XaPnn,Advice about long acting reversible contraception
+XaPx8,Patient advised of anticoagulant dose
+XaPxc,Advised about minor surgery post-operative self care
+XaPyB,Advice given about bowel cancer screening programme
+XaQOF,Advised to attend general practitioner out of hours service
+XaQhR,Advice given about Influenza A virus subtype H1N1 infection
+XaQmJ,Anticoagulation therapy discussed
+XaQyK,Home visit for anticoagulation monitoring
+XaR6o,Telephne consultatn suspected influenza A virus subtype H1N1
+XaR6q,Advc given about influenza A virus subtype H1N1 by telephone
+XaRCS,Advice given about anti-malaria prophylaxis
+XaREx,Physical activity opportunity signposted
+XaVxE,Advice given about breast screening programme
+XaWz7,Advice given about lithium side-effects and toxicity
+XaX20,Advice given about prostate cancer screening
+XaX2T,"Advice about IUCD, checking for threads"
+XaX3c,Discussion about COPD exacerbation plan
+XaX5F,Advice given about weight management
+XaX8e,Advised ([?AND/OR advice ?AND/OR eductn]) diabetes driving
+XaXGr,Discussion about bariatric operative procedure
+XaXH3,Verbal advice about long acting reversible contraception
+XaXH4,Written advice about long acting reversible contraception
+XaXUW,Advice given about risks of unprotected sexual intercourse
+XaXUo,Advice given about wound care
+XaXan,Advised to abstain from alcohol consumption
+XaXeG,Discussion about changing insulin requirement in pregnancy
+XaXhp,Discussion about weight management programme
+XaXlU,Advised to maintain supply of blood ketone test strips
+XaXnG,Stop smoking service opportunity signposted
+XaXnI,Weight management service opportunity signposted
+XaXnb,Advised to maintain back up supply insulin subcut injection
+XaXpU,Advice about appropriate use of emergency appointment system
+XaY53,Discussion about organ transplantation
+XaYtu,Discussion about lipid lowering therapy
+XaZAo,Discussion about out of hours care management plan
+XaZBg,Discussion about medication regimen adherence
+XaZHM,Discussion about HIV post exposure prophylaxis
+XaZL7,Discussion about risks of combined oral contraception
+XaZNd,Discussion about deactivation of automatic ICD
+XaZqE,Discussion about lung transplantation
+XaZqF,Discussion about kidney transplantation
+XaZqG,Discussion about liver transplantation
+Xaa4C,Telephone follow-up
+XaaBB,Advised discontinue carrying adrenaline preloaded inject pen
+XaaYn,Discussion abt Liverpool care pathway for the dying wth patn
+XaaYo,Discussion abt Liverpool care pathway for the dying th famly
+XaaiY,Care home visit
+XaaiZ,Care home visit for initial patient assessment
+Xaaia,Care home visit for follow-up patient review
+Xab9G,Patient given advice about management of anxiety
+XabEv,Advice given about access to emergency appointment
+XabX8,Discussion about CRP with family member
+Xabgo,Discussion about treatment with carer
+Xabyc,Discussion about telehealth monitoring
+Xac6H,Specialist alcohol treatment service signposted
+Xac8y,Mental health prison inreach team telephone encounter
+XacXl,Discussion about emergency health care plan
+XacXn,Discussion about DNACPR clinical decision
+Xad9X,Patient advised medication may affect driving
+Xag0E,Discussion about writing Last Will and Testament
+Y00e6,Advice given - pelvic floor exercises
+Y00e7,Advice given - cervical smear
+Y0fd9,Information given to patient at time of referral
+Y1101,Advice given re eye health
+Y1104,Dental advice given
+Y1297,Advised to see Dentist
+Y1b34,Physical Activity Clinical Advice Pad - PACAP
+Y1d79,Discussion about end of life care planning
+Y1f3b,eConsultation via online application
+Y211b,Telephone consultation for suspected severe acute respiratory syndrome coronavirus 2 (procedure)
+Y212c,Advice given about severe acute respiratory syndrome coronavirus 2 by telephone (situation)
+Y212d,Advice given about severe acute respiratory syndrome coronavirus 2 infection (situation)
+Y28d4,Does use dosette box
+Y28d5,Does not use dosette box
+Y3203,Advised to see chiropodist
+Y3551,Malaria advice given
+Y3552,Malaria leaflet given
+Y3553,Malaria chemoprophylaxis advised
+YA517,Discussion about treatment options

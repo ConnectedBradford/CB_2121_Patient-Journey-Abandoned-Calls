@@ -1,0 +1,397 @@
+id,description
+4000,AMB septicaemia
+4086,AMB chest pain (undifferentiated)
+4174,PC relationship breakdown
+4246,AMB imminent seizure
+4318,PC Stoma Management
+4407,"RP ED non-trauma bleeding nose, ear, eye or mouth"
+4410,ED hydraulic injection injury
+4411,"PC dental trauma, tooth avulsion"
+4412,AMB acute neurological symptoms prior to injury
+4413,PC repeat prescription
+4416,PC support pessary displaced and/ or removal required
+4417,PC intrauterine coil displaced and/ or removal required
+4419,ED mental health crisis
+4420,PC failed contraception and retained foreign body
+4421,"AMB major blunt injury, torso"
+4422,"AMB major blunt injury, head/neck"
+4425,AMB fitting
+4426,AMB unexpected death
+4427,"Major blood loss, unspecified"
+4428,Major Trauma
+4429,AMB Cold Hands and/or Feet
+4451,AMB burn chemical
+4457,AMB diabetes AND severely ill
+4465,CN Other Community Healthcare Professional
+4466,CN District Nurse
+4467,PC Pharmacy Services
+4468,PC HCP Callback to Paramedic
+4469,PC Prescription Request
+4319,PC alcohol drug withdrawal
+4320,PC Failed Contraception over 72 hours
+4323,CN Community Nurse
+4324,CN Community Midwife
+4325,AMB faecal vomiting
+4326,PC Community Healthcare Professional Service Location
+4328,PC Receive report of results or tests
+4329,"PC repeat prescription, urgent"
+4330,RP ED failed contraception
+4332,RP AMB urinary retention
+4333,RP ED minor injury
+4334,RP ED intoxication
+4336,RP ED medication toxicity
+4337,"RP AMB injury, severe pain"
+4338,RP AMB fit or seizure within past 12 hours
+4339,RP ED early labour
+4340,RP PC referral without triage
+4341,RP flu medication collection
+4342,RP AMB antidepressant medication toxicity
+4343,RP ED child protection/vulnerable adult concern
+4344,"RP ED Trauma bleeding, nose, ear, eye or mouth"
+4346,RP referral by healthcare professional
+4347,RP bought in by police
+4348,RP ED referral without triage
+4349,RP ED behaviour problem
+4350,"RP ED nose, foreign body"
+4351,"RP ED genital, foreign body"
+4352,"RP ED ear, foreign body"
+4353,"RP ED throat, foreign body"
+4355,RP ED management of dressings
+4356,"RP PC Non trauma bleeding, nose, ear, eye or mouth"
+4357,RP AMB labour
+4358,RP AMB septicaemia
+4359,RP AMB acute coronary syndrome
+4360,RP AMB meningitis
+4361,RP AMB severe pain
+4363,RP ED features of severe illness
+4364,RP AMB suicide attempt
+4365,RP AMB anaphylaxis
+4366,RP AMB stroke
+4367,"RP AMB major blood loss, trauma"
+4368,"RP AMB resuscitation, recent"
+4369,RP AMB major blood loss
+4370,RP AMB features of severe illness
+4371,RP AMB severe injury
+4372,RP AMB intoxication
+4373,RP AMB paracetamol toxicity
+4374,RP ED urinary retention
+4375,"RP AMB medication toxicity, high risk"
+4376,RP PC medication toxicity
+4377,RP ED urinary catheter problem
+4378,RP PC social/domestic emergency
+4379,RP ED foreign body in situ
+4380,RP ED foreign body location undeclared
+4381,"AMB chemical eye splash, high risk"
+4382,AMB ICD activation
+4383,AMB cardiac symptoms post ICD activation
+4384,AMB breathlessness post ICD activation
+4385,AMB palpitations post ICD activation
+4386,AMB confusion post ICD activation
+4387,PC ICD activation
+4388,AMB ICD implanted
+4389,ED post tonsillectomy bleeding
+4391,ED bleeding post dental procedure
+4392,PC dental brace problem
+4393,PC bleeding post dental procedure
+4395,RP AMB diabetes AND confusion
+4396,RP ED loose/damaged plaster
+4398,"PC tick, removal and bite management"
+4399,PC insulin pump management capability
+4402,PC viral haemorrhagic fever
+4403,ED viral haemorrhagic fever
+4404,AMB viral haemorrhagic fever
+4405,"PC skin, yellow"
+4406,AMB acute neurological deficit
+4001,AMB acute coronary syndrome
+4002,AMB meningitis
+4003,PC full Primary Care assessment and prescribing capability
+4004,"AMB foreign body, wound, large"
+4005,"AMB ischaemia, post trauma"
+4006,AMB compound fracture
+4007,AMB fracture and/or dislocation
+4008,AMB motor and/or sensory deficit
+4009,"ED amputation, digit"
+4010,"ALL assault, sexual"
+4011,"AMB assault, major"
+4012,"AMB bleeding, persistent"
+4013,"ED wound, complex"
+4014,"ED constricting object, removal required"
+4015,ED bleeding disorder
+4016,"AMB aortic aneurysm, rupture/dissection"
+4017,AMB gastrointestinal bleed
+4018,AMB severe pain
+4019,AMB toxic ingestion
+4020,"PC assessment and management capability, minor condition"
+4022,"ED foreign body, removal required"
+4023,AMB toxic inhalation
+4024,"ED management, significant burn"
+4025,AMB hydrofluoric acid
+4026,AMB deep vein thrombosis
+4027,"AMB ischaemia, non-trauma"
+4028,AMB stroke
+4029,AMB spinal cord compression
+4030,AMB drug/alcohol/solvent misuse
+4031,PC sexually transmitted infection
+4032,AMB pregnancy
+4033,AMB new/worsening breathlessness
+4034,AMB haemoptysis
+4035,AMB subarachnoid haemorrhage
+4036,PC alcohol misuse
+4037,AMB pre-eclampsia
+4038,"PC genital herpes, recurrent"
+4040,PC stress incontinence
+4041,PC contraception issue
+4042,AMB hypothermia
+4043,AMB major head/neck injury
+4044,AMB suicide attempt
+4045,AMB aggression/violence
+4046,"AMB unconsciousness, recent"
+4047,PC full dental assessment and prescribing capability
+4048,AMB fit/convulsion
+4049,AMB heat stroke
+4050,ED dehydration
+4051,PC child protection/vulnerable adult concern
+4052,ED full ED assessment and management capability
+4053,PC full mental health assessment and prescribing capability
+4054,PC substance misuse
+4055,PC sexual identity/activity issue
+4056,ED toxic shock syndrome
+4057,"ED foreign body, vagina"
+4058,"ED foreign body, rectum"
+4060,AMB acute abdomen
+4062,ED welding flash/UV exposure
+4066,"PC retained tampon, condom or cap"
+4067,AMB high-risk group
+4068,AMB hypotension
+4070,PC urinary catheter management capability
+4071,PC urinary retention
+4072,ED testicular torsion
+4073,PC urinary catheter problem AND fever
+4074,"AMB new/worsening breathlessness AND wound, foreign body, large"
+4075,AMB spinal injury
+4076,AMB haematuria
+4077,"AMB motor/sensory deficit AND wound, foreign body, large"
+4078,"AMB electric shock, still in contact with source"
+4079,"AMB electric shock, greater than domestic supply"
+4080,AMB pregnancy AND confusion
+4081,"ED foreign body, skin, small"
+4083,AMB choked within previous 24 hours
+4084,AMB pulmonary embolism
+4085,AMB pneumothorax
+4087,AMB cord prolapse
+4088,AMB imminent birth
+4089,AMB labour
+4090,AMB vaginal bleeding
+4091,"AMB Head injury, full ED assessment required"
+4092,"AMB fall, environmental exposure"
+4093,"AMB fall, unable to get up"
+4094,"ED electric shock, domestic or lesser supply"
+4095,PC social services referral required
+4097,AMB palpitations
+4098,AMB recent head injury
+4099,AMB diabetes mellitus
+4100,AMB placental abruption
+4101,AMB anaphylaxis
+4102,AMB respiratory distress
+4103,AMB unable to weight bear
+4104,"AMB motor/sensory deficit, spine"
+4105,"AMB spinal device, loose or broken"
+4106,AMB shock
+4107,AMB apnoeic episode
+4108,AMB decreased conscious level
+4109,AMB stroke
+4110,AMB prolonged fitting
+4111,AMB seizure (undifferentiated)
+4112,PC full obstetric assessment and management capability
+4113,AMB untreated/treatment failure
+4114,PC management of dressings
+4115,"AMB vaginal bleeding, heavy"
+4116,AMB abdominal pain
+4117,PC police referral required
+4118,AMB ambulance dispatch
+4119,"AMB medication/toxic substance overdose, high risk"
+4120,PC syringe driver management capability
+4121,PC peritoneal dialysis catheter management capability
+4122,PC central venous line management capability
+4123,PC enteral feeding tube management capability
+4124,AMB seriously ill infant
+4125,PC drain management capability
+4126,ED nail avulsion
+4127,ED subungual haematoma
+4128,PC local infection
+4129,PC minor injury
+4130,PC rabies risk
+4131,AMB envenomation
+4132,"ED tick, removal required"
+4133,AMB burst abdomen
+4134,ED full ophthalmic ED assessment and management capability
+4135,"AMB fall, significant"
+4136,"AMB associated injury, risk"
+4137,"AMB vaginal bleeding, pregnant"
+4138,"ED wound, contaminated"
+4139,"AMB ischaemia, limb"
+4140,ED tight/painful plaster
+4141,ED loose/damaged plaster
+4143,PC palliative care service
+4144,AMB multiple birth
+4145,AMB pre-term
+4146,"ED ischaemia, digit/s"
+4147,AMB stillbirth
+4148,"AMB burn, electrical"
+4149,AMB post delivery
+4150,AMB neonatal respiratory arrest
+4151,AMB abdominal injury
+4152,AMB amputation
+4153,"AMB bleeding, significant"
+4154,AMB hazardous object
+4155,PC full Primary Care assessment and prescribing capability - blood in motion
+4156,PC Possible DVT
+4163,AMB diabetic ketoacidosis
+4164,AMB diabetic ketoacidosis in pregnancy
+4165,AMB diabetes AND confusion
+4167,"AMB analgesia overdose, accidental"
+4169,AMB diabetes AND reduced conscious level
+4170,PC syringe driver management capability - palliative care services
+4171,PC full Primary Care TIA assessment and prescribing capability
+4173,PC bereavement
+4175,PC postnatal mental health problem
+4176,PC post-traumatic stress
+4177,PC depressed mood
+4178,PC agitation
+4179,PC anxiety/panic
+4180,"PC mental health assessment, alcohol misuse"
+4181,"PC mental health assessment, drug misuse"
+4182,"PC drug misuse, information"
+4183,"PC mental health assessment, solvent misuse"
+4184,"PC solvent misuse, information"
+4185,PC hallucinations
+4186,"AMB road traffic incident, unknown casualties"
+4187,"AMB hazard, electrical, unknown casualties"
+4188,"AMB hazard, chemical, unknown casualties"
+4189,"AMB hazard, other, unknown casualties"
+4190,AMB trapped and ejected from a vehicle
+4191,AMB trapped
+4192,PC medication enquiry
+4193,PC general health information
+4194,"PC pharmacy, location information"
+4195,"PC GP practice, location information"
+4196,"PC sexual health service, location information"
+4197,"PC optician, location information"
+4198,PC failed contraception
+4199,"PC repeat prescription, routine"
+4200,PC appointment request
+4201,AMB ejected from vehicle
+4202,"AMB multiple casualties, unable to walk"
+4203,AMB immediate threat to life
+4204,"PC dental service, location information"
+4205,ED schizophrenia
+4206,PC bipolar disorder
+4207,PC chronic depression
+4208,ED mania/hypomania
+4209,PC generalised anxiety disorder
+4210,PC Dementia/alzheimer's
+4211,PC self-harm
+4212,AMB cardiac arrest
+4213,AMB choking
+4214,AMB unconscious
+4215,"AMB major blood loss, trauma"
+4216,"AMB major blood loss, non-trauma"
+4217,"AMB major blood loss, non-trauma AND respiratory distress"
+4218,"AMB major blood loss, non-trauma AND shock"
+4219,"AMB major blood loss, non-trauma AND septicaemia"
+4220,"AMB major blood loss, trauma AND amputated digits"
+4221,"AMB threat to life, environmental"
+4222,AMB major trauma AND significant blood loss
+4223,"AMB vaginal bleeding,heavy AND pregnant,over 20 weeks"
+4224,"AMB gunshot OR stab injury, head/neck"
+4225,AMB gunshot OR stab injury
+4226,"AMB Road Traffic Incident, ejected from vehicle"
+4227,"AMB Road Traffic Incident, vehicle rollover"
+4228,"AMB major burn, respiratory involvement"
+4229,AMB major burn
+4230,AMB major blunt injury
+4231,AMB major wound/amputation
+4232,AMB multiple major injuries
+4233,AMB near-drowning
+4234,AMB strangulation/suffocation
+4235,AMB blast injury
+4236,AMB lightning strike
+4237,AMB major trauma AND trapped at scene
+4238,AMB self-harm episode AND toxic ingestion/inhalation/overdose
+4239,AMB chest injury AND cardiac/respiratory symptoms
+4240,AMB loss of consciousness prior to injury
+4241,AMB stroke symptoms prior to injury
+4242,AMB subarachnoid haemorrhage symptoms prior to injury
+4243,"AMB resuscitation, recent"
+4244,"AMB suicidal, means and plan"
+4245,"ED suicidal, no means nor plan"
+4247,"PC expected death, terminal illness"
+4248,ALL unexpected death
+4249,"AMB gunshot OR stab injury, torso"
+4250,AMB ectopic pregnancy
+4251,AMB road traffic incident
+4252,AMB public order incident
+4253,AMB police request for assistance
+4254,AMB other police incident
+4255,AMB fire incident
+4256,AMB other fire incident
+4257,AMB lift entrapment incident
+4258,AMB fire alarm activation incident
+4259,AMB fire service road traffic incident
+4260,AMB fire service request for assistance
+4261,AMB other fire service incident
+4262,AMB rescue service specific request
+4263,AMB rescue service request for assistance
+4264,AMB other rescue service incident
+4265,AMB large passenger ship incident
+4266,AMB large cargo ship incident
+4267,AMB chemical or oil tanker incident
+4268,AMB fishing vessel incident
+4269,AMB inland cargo ship incident
+4270,AMB small water vessel incident
+4271,AMB other marine incident
+4272,AMB metalworking industry incident
+4273,AMB foodstuffs industry incident
+4274,AMB petrochemical industry incident
+4275,AMB hazardous chemical industry incident
+4276,AMB radiological industry incident
+4277,AMB industrial request for assistance
+4278,AMB other industrial incident
+4279,AMB hospital evacuation request
+4280,AMB hospital public health incident
+4281,AMB hospital request for assistance
+4282,AMB other hospital incident
+4283,AMB unwell persons on plane
+4284,AMB light civilian aircraft incident
+4285,AMB commercial civilian aircraft incident
+4286,AMB civilian cargo aircraft incident
+4287,AMB airport or aircraft incident
+4288,AMB military aircraft incident
+4289,AMB other aircraft incident
+4290,AMB unwell persons on train
+4291,AMB railway station incident
+4292,AMB rail or train incident
+4293,AMB railways request for assistance
+4294,AMB other railways incident
+4295,AMB unwell persons on bus
+4296,AMB bus station incident
+4297,AMB bus incident
+4298,AMB bus request for assistance
+4299,AMB other bus incident
+4300,AMB other assistance required
+4301,AMB major blood loss
+4302,PC mania/hypomania
+4303,PC schizophrenia
+4304,ED unable to weightbear
+4305,ED local infection
+4306,ED highly dangerous chemical
+4308,"PC intrauterine coil, insertion or removal capability"
+4309,"PC support pessary, insertion or removal capability"
+4310,PC extended ophthalmic assessment and prescribing capability (MECS)
+4311,"PC extended ophthalmic assessment and management capability, minor condition (MECS)"
+4312,ED extended ophthalmic assessment and prescribing capability (MECS)
+4313,AMB sting ray
+4314,"ED Weever Fish, Sea Urchin"
+4315,PC Healthcare Professional Callback
+4316,PC Community Healthcare Professional
+4317,CN Health Visitor

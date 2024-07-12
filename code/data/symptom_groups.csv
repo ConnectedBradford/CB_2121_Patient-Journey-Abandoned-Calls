@@ -1,0 +1,211 @@
+id,description
+1092,"Foreign Body, Ingested or Inhaled"
+1093,"Foreign Body, Nose"
+1094,"Foreign Body, Penis"
+1095,"Foreign Body, Rectum"
+1096,"Foreign Body, Vaginal"
+1097,"Genital Injury, Blunt"
+1098,"Genital Injury, Blunt, Pregnant"
+1099,"Genital Injury, Penetrating"
+1100,"Genital Injury, Penetrating, Pregnant, Over 20 weeks"
+1101,Genital Problems
+1103,Groin Pain or Groin Swelling
+1104,"Groin Pain or Groin Swelling, Pregnant, Under 20 Weeks"
+1105,"Groin Pain or Swelling, Pregnant, Over 20 Weeks"
+1106,Hair loss
+1107,"Hand or Wrist Injury, Blunt"
+1108,"Hand or Wrist Injury, Penetrating"
+1109,Head Lice
+1110,"Head, Facial or Neck Injury, Blunt"
+1111,"Head, Facial or Neck Injury, Penetrating"
+1112,Headache
+1113,"Headache, Pregnant"
+1114,Heat Exposure
+1115,"Hip, Thigh or Buttock Pain or Swelling"
+1116,Itch
+1117,Knee or Lower Leg Pain or Swelling
+1118,Labour and Childbirth
+1119,"Leg Injury, Blunt"
+1120,"Leg Injury, Penetrating"
+1121,Locked Jaw
+1122,"Lower Back Injury, Blunt"
+1123,"Lower Back Injury, Blunt, Pregnant"
+1124,"Lower Back Injury, Penetrating"
+1125,"Lower Back Injury, Penetrating, Pregnant"
+1126,Lower Back Pain
+1127,"Lower Back Pain, Pregnant, Over 20 weeks"
+1128,Lower Limb Pain or Swelling
+1129,Mouth Ulcers
+1130,Nasal Congestion
+1131,Nosebleeds without injury
+1132,"Nosebleeds, Traumatic"
+1133,Numbness or Pins and Needles
+1134,"Other Dental Problems - Fillings, Crowns Bridges, Appliances etc"
+1135,Pain and/or Frequency Passing Urine
+1136,"Pain, Frequency and/or Difficulty Passing Urine"
+1137,Palpitations
+1138,"Palpitations, Pregnant"
+1139,Plaster Cast Problems
+1140,Predetermined Management Plan
+1141,Probable Stroke
+1143,Rectal Bleeding
+1144,"Rectal Pain, Swelling, Lump or Itch"
+1145,Scratches and Grazes
+1146,Sexual Problems or Concerns
+1147,Shoulder Pain
+1148,Sinusitis
+1149,Skin Lumps
+1150,"Skin, Glued"
+1151,"Skin, Minor Foreign Body"
+1152,"Skin, Rash"
+1153,"Skin, Yellow"
+1154,Sleep Difficulties
+1155,Social or Domestic Emergency
+1156,Sore Throat or Hoarse Voice
+1157,Stoma Problems
+1158,Sunburn
+1159,Symptoms without specific Pathway
+1160,"Tattoos, Birthmarks or Moles"
+1161,Teething
+1162,Tiredness (Fatigue)
+1163,"Tiredness (Fatigue), Pregnant"
+1164,"Toe Injury, Blunt"
+1165,"Toe Injury, Penetrating"
+1166,Toe Pain or Swelling
+1168,Toothache After Dental Injury
+1169,Toothache Without Dental Injury
+1170,Toxic Ingestion/Inhalation/Overdose
+1171,Tube and Drain Problems
+1172,"Unwell, Under 1 Year Old"
+1173,Urinary catheter Problems
+1174,Vaginal Bleeding
+1175,"Vaginal Bleeding, Pregnant"
+1176,Vaginal Discharge
+1177,Vaginal Itch or Soreness
+1178,Vaginal Swelling
+1179,Vomiting
+1180,Vomiting Blood
+1181,Wound Problems
+1182,"Wrist, Hand or Finger Pain or Swelling"
+1183,Nail Injury
+1184,"Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks"
+1185,"Drug, solvent, alcohol misuse"
+1186,Worsening known Mental health problem
+1187,"Diabetes, Blood Sugar Problem"
+1188,Deceased
+1189,Dying
+1190,Major Trauma
+1191,Health and Social Information
+1192,Repeat Prescription
+1193,Immediate threats to life
+1194,Trauma Emergency
+1195,Non-trauma Emergency
+1196,Declared Seizure Warning
+1197,Faecal Incontinence
+1198,"Stings, Water Creature"
+1200,Frequent caller
+1201,Reduced Fetal Movements
+1202,"Limb, cold or colour change"
+1203,Mental Health Problem
+1204,Failed Contraception
+1207,Reception Point
+1208,Pubic Lice
+1209,Scabies
+1210,Tremor
+1211,"Eye splash injury, chemical"
+1212,Implantable Cardioverter Defibrillator Shock
+1213,Hiccups
+1216,Other
+1217,Stroke Like Symptoms
+1218,Entry pathway
+1219,"GP Urgent, Bed Bureau, Interhospital Transfers"
+1221,Ambulance Dispatch
+1222,Healthcare Professional Callback
+1223,Bites and Stings
+1224,Eye or Eyelid Problems
+1225,Skin Problems
+1226,Dental Problems
+1227,"Wound Problems, Plaster Casts, Tubes and Metal Appliances"
+1000,"Abdominal or Flank Injury, Blunt"
+1001,"Abdominal or Flank Injury, Blunt, Pregnant"
+1002,"Abdominal or Flank Injury, Penetrating"
+1003,"Abdominal or Flank Injury, Penetrating, Pregnant"
+1004,Abdominal Pain
+1005,"Abdominal Pain, Pregnant, Over 20 Weeks"
+1006,"Abdominal, Flank, Groin or Back Pain or Swelling"
+1007,Absent or Missed Period
+1008,"Acne, Spots and Pimples"
+1009,Alcohol Intoxication
+1010,Allergic Reaction
+1011,"Ankle or Foot Injury, Blunt"
+1012,"Ankle or Foot Injury, Penetrating"
+1013,Ankle or Foot Pain or Swelling
+1014,"Arm Injury, Blunt"
+1015,"Arm Injury, Penetrating"
+1016,"Arm, Pain or Swelling"
+1017,Athlete's Foot
+1018,Behaviour Change
+1020,"Bites or Stings, Insect or Spider"
+1021,"Bites, Animal"
+1022,"Bites, Human"
+1023,"Bites, Snake"
+1024,Blisters
+1025,Blood in Urine
+1026,Breast Discharge
+1027,"Breast Discharge, Pregnant"
+1028,Breast Lump
+1029,"Breast Lump, Pregnant"
+1030,Breast Pain
+1031,"Breast Pain, Pregnant"
+1032,Breast Problems
+1033,Breastfeeding Problems
+1034,"Breathing Problems, Breathlessness or Wheeze"
+1035,"Breathing Problems, Breathlessness or Wheeze, Pregnant"
+1036,Bringing Up Blood
+1037,"Burn, Chemical"
+1038,"Burn, Thermal"
+1039,Chest and Upper Back Pain
+1040,"Chest or Upper Back Injury, Blunt"
+1041,"Chest or Upper Back Injury, Penetrating"
+1042,Child Safeguard/Protection or Vulnerable Adult Concern
+1043,Cold or Flu
+1044,"Cold or Flu, Pregnant"
+1045,Constipation
+1046,"Constipation, Pregnant"
+1047,Cough
+1048,"Cough, Pregnant"
+1049,Coughing up Blood
+1050,Deliberate Self-Harm
+1051,Dental Bleeding
+1052,Dental Injury
+1054,Diarrhoea
+1055,Diarrhoea and Vomiting
+1056,"Diarrhoea or Vomiting, Pregnant, Over 20 Weeks"
+1057,Difficulty Passing Urine
+1058,Difficulty Swallowing
+1059,Dizziness or Vertigo
+1060,Dizziness or Vertigo Pregnant
+1063,Ear Discharge or Ear Wax
+1064,Earache
+1065,Easy or Unexplained Bruising
+1066,Electrical Injury
+1067,External Fixation Problems
+1068,"Eye Injury, Blunt"
+1069,"Eye Injury, Penetrating"
+1071,Eye Splash Injury or Minor Foreign Body
+1072,"Eye, Painful"
+1073,"Eye, Red or Irritable"
+1074,"Eye, Sticky or Watery"
+1076,"Eye, Visual Loss or Disturbance"
+1077,"Eye, Yellow"
+1078,Eyelid Problems
+1080,"Face, Neck Pain or Swelling"
+1081,Falls or Faints Without Injury
+1083,Falls Without Injury
+1084,Fever
+1085,"Finger or Thumb Injury, Blunt"
+1086,"Finger or Thumb Injury, Penetrating"
+1088,Fits Within the Last 12 Hours
+1089,Flank or Side Pain
+1090,"Flank or Side Pain, Pregnant"
+1091,"Foreign Body, Ear"
